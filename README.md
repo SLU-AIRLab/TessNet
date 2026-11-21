@@ -9,4 +9,4 @@ Ahmad Moori, Vasit Sagan, Omar Tahri, Erik Blasch, and Hadi Ali Akbarpour
 
 ## Overview
 
-![Figure 1. TESS-Net architecture showing trust map estimation, trust-conditioned fusion, and event-edge routing.](figures/architecture.png)
+![Figure 1. TESS-Net architecture showing trust map estimation, trust-conditioned fusion, and event-edge routing.](figures/Architecture.png)
